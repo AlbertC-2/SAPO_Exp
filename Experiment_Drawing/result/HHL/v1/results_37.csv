@@ -1,0 +1,2 @@
+tickers,num,qubit_num,similarity
+"['MSFT', 'MELI', 'KDP', 'INTU', 'INTC']",5,12,0.9999999129416435

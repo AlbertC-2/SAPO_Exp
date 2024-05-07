@@ -1,0 +1,2 @@
+tickers,num,qubit_num,similarity
+"['TSLA', 'CMCSA', 'COST', 'ORLY', 'MCHP']",5,12,0.9999989097750029

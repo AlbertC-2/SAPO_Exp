@@ -1,0 +1,9 @@
+- sparsity 怎么算,  $N_{nonzero}/n^2$ 是否合理
+- s 的浮动问题, 要改的
+- 多assets的数据  #HD
+- kappa究竟怎么回事, 怎么增长的?
+- GC算法的kappa要另外算  
+- num_assets和n不一致, 之前搞混了, 要修改  $n=2^{ceil (\log_2(num_{assets}+2))}$  #done
+- kappa 取中位数  #done
+- 做个kappa的图, 热力图  
+- **sparsity 或许真的有问题，必须得是$\log  n$ 的才有指数加速**
